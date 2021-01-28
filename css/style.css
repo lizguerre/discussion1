@@ -1,8 +1,6 @@
 body{
   /* make all text courier with a backup of monospace, set margin and padding to 10px */
-  background-color: blueviolet;
-  font-family: "courier", monospace;
-  font-size: medium;
+ 
 }
 h1{
   /* make your headers #E60000 color and bold */
